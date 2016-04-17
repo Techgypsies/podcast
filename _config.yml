@@ -3,9 +3,9 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Ed-Tech, WTF"
+title: "Tech Gypsies Podcast"
 description: > # this means to ignore newlines until "email:"
-   A Hack Education Project
+   A Hack Education / API Evangelist Project
 
 email: mail@audreywatters.com
 #blog logo
