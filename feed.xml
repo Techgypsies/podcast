@@ -22,13 +22,12 @@ layout: null
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ site.url }}{{ site.logo }}" />
-        <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
-        <title>Verbose title of the podcast</title>
+        <title>{{ site.title }}</title>
         <itunes:author>{{ site.author }}</itunes:author>
         <description>{{ site.description }}</description>
         <itunes:summary>{{ site.summary }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle }}</itunes:subtitle>
+        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         {% for podcast in site.data.podcasts limit:25 %}
         <item>
