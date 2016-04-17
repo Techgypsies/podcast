@@ -4,6 +4,7 @@
   subtitle: "A subtitle"
   image: /assets/images/tech-gypsies-podcast.png
   audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-17-2016.mp4
+  audio_length: 38753313
   sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-04-17-2016
   duration: 0:33:02
   publish_date: "2016-04-17 15:00:00"
