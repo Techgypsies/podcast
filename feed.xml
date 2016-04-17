@@ -4,7 +4,6 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
         <link>http://podcast.techgypsi.es/</link>
         <language>en-us</language>
         <copyright>&#xA9;2016</copyright>
