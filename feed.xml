@@ -4,14 +4,18 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <link>http://podcast.techgypsi.es/</link>
+        <title>{{ site.title }}</title>
+        <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
+        <link>{{ site.url }}feed.xml</link>
+        <description>{{ site.description }}</description>
+        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <language>en-us</language>
         <copyright>&#xA9;2016</copyright>
         <webMaster>info@kinlane.com (Kin Lane)</webMaster>
         <managingEditor>info@kinlane.com (Kin Lane)</managingEditor>
         <image>
+            <title>{{ site.title }}</title>
             <url>{{ site.url }}{{ site.logo }}</url>
-            <title>Tech Gypsies Podcast</title>
             <link>{{ site.url }}</link>
         </image>
         <itunes:owner>
@@ -22,12 +26,9 @@ layout: null
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ site.url }}{{ site.logo }}" />
-        <title>{{ site.title }}</title>
         <itunes:author>{{ site.author }}</itunes:author>
-        <description>{{ site.description }}</description>
         <itunes:summary>{{ site.summary }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle }}</itunes:subtitle>
-        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         {% for podcast in site.data.podcasts limit:25 %}
         <item>
             <title>{{ podcast.title | xml_escape }}</title>
