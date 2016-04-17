@@ -7,9 +7,12 @@ title: "The Tech Gypsies Podcast"
 description: > # this means to ignore newlines until "email:"
    A Hack Education / API Evangelist Production
 
+description: "A longer description"
+subtitle: "A subtitle"
+
 email: kinlane@gmail.com
 #blog logo
-logo: "/assets/images/logo.png"
+logo: "/assets/images/tech-gypsies-podcast.png"
 # blog cover
 cover: "/assets/images/wheel.jpg"
 covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
@@ -17,28 +20,31 @@ covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
 name: 'Tech Gypsies'
 author: 'Tech Gypsies'
 author_image: "/assets/images/author.png"
+author_email: "info@kinlane.com"
+
+keywords: 'technology, politics'
 
 paginate:	5
 paginate_path: "/blog/page:num"
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 
-url: "http://edtech.wtf" # the base hostname & protocol for your site
+url: "http://podcast.techgypsi.es/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@hackeducation'
 
 # social icons and sharing options
 social:
-  - icon:   
-    url:    
-    desc: 
+  - icon:
+    url:
+    desc:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&url="
 
-  - icon:   
-    url:    
-    desc: 
+  - icon:
+    url:
+    desc:
     share_url: http://www.facebook.com/sharer/sharer.php
     share_title: ?title=
     share_link: "?u="
@@ -46,13 +52,13 @@ social:
   - icon:   github
     url:    https://github.com/Techgypsies/podcast
     desc:   Fork me on github
-    share_url: 
+    share_url:
     share_title:
     share_link:
 
  # - icon:  google-plus
- #   url:   
- #   desc:  
+ #   url:
+ #   desc:
  #   share_url:
  #   share_title:
  #   share_link:
@@ -69,5 +75,4 @@ social:
     desc: Email
     share_url:
     share_title:
-    share_link:    
-  
+    share_link:
