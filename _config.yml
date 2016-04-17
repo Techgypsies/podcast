@@ -58,14 +58,14 @@ social:
  #   share_link:
 
   - icon: rss
-    url:  http://edtech.wtf/feed.xml
+    url:  http://podcast.techgypsi.es/feed.xml
     desc: Subscribe
     share_url:
     share_title:
     share_link:
 
   - icon: envelope
-    url:  mailto:mail@audreywatters.com
+    url:  mailto:kinlane@gmail.com
     desc: Email
     share_url:
     share_title:
