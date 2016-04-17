@@ -28,7 +28,7 @@ layout: null
         <itunes:summary>{{ site.summary }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle }}</itunes:subtitle>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-        <atom:link href="{{ siteurl }}feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
         {% for podcast in site.data.podcasts limit:25 %}
         <item>
             <title>{{ podcast.title | xml_escape }}</title>
