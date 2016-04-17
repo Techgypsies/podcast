@@ -10,7 +10,7 @@ layout: null
         <webMaster>info@kinlane.com (Kin Lane)</webMaster>
         <managingEditor>info@kinlane.com (Kin Lane)</managingEditor>
         <image>
-            <url>{{ site.logo }}</url>
+            <url>{{ site.url }}{{ site.logo }}</url>
             <title>Tech Gypsies Podcast</title>
             <link>{{ site.url }}</link>
         </image>
@@ -23,7 +23,7 @@ layout: null
         </itunes:category>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="{{ site.logo }}" />
+        <itunes:image href="{{ site.url }}{{ site.logo }}" />
         <atom:link href="{{ site.url }}feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
         <title>Verbose title of the podcast</title>
