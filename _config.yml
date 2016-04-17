@@ -29,9 +29,9 @@ twitter_handle: '@hackeducation'
 
 # social icons and sharing options
 social:
-  - icon:   twitter
-    url:    https://twitter.com/hackeducation
-    desc: Follow me on twitter
+  - icon:   
+    url:    
+    desc: 
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&url="
