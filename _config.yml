@@ -3,19 +3,19 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Tech Gypsies Podcast"
+title: "The Tech Gypsies Podcast"
 description: > # this means to ignore newlines until "email:"
-   A Hack Education / API Evangelist Project
+   A Hack Education / API Evangelist Production
 
-email: mail@audreywatters.com
+email: kinlane@gmail.com
 #blog logo
 logo: "/assets/images/hack_logo.jpg"
 # blog cover
 cover: "/assets/images/pigeon_wtf.jpg"
 covercredits: "https://www.flickr.com/photos/pedrosimoes7/3840266796"
 
-name: 'Audrey Watters'
-author: 'Audrey Watters'
+name: 'Tech Gypsies'
+author: 'Tech Gypsies'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -44,7 +44,7 @@ social:
     share_link: "?u="
 
   - icon:   github
-    url:    https://github.com/audreywatters/edtechwtf
+    url:    https://github.com/Techgypsies/podcast
     desc:   Fork me on github
     share_url: 
     share_title:
