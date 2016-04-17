@@ -18,9 +18,7 @@ layout: null
             <itunes:name>{{ site.author }}</itunes:name>
             <itunes:email>{{ site.author_email }}</itunes:email>
         </itunes:owner>
-        <itunes:category text="Technology">
-            <itunes:category text="IT News" />
-        </itunes:category>
+        <itunes:category text="Technology"></itunes:category>
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ site.url }}{{ site.logo }}" />
