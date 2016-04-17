@@ -37,7 +37,7 @@ layout: null
             <itunes:summary>{{ podcast.summary | xml_escape }}</itunes:summary>
             <itunes:subtitle>{{ podcast.subtitle | xml_escape }}</itunes:subtitle>
             <enclosure url="{{ podcast.audio_file }}" type="audio/mp4" length="33" />
-            <guid>{{ podcast. audio_file }}</guid>
+            <guid>{{ podcast.audio_file }}</guid>
             <itunes:duration>{{ podcast.duration }}</itunes:duration>
             <pubDate>{{ podcast.publish_date | date_to_rfc822 }}</pubDate>
         </item>
