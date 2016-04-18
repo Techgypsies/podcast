@@ -6,14 +6,13 @@ layout: null
     <channel>
         <title>{{ site.title }}</title>
         <link>{{ site.url }}</link>
-        <description>{{ site.description }}</description>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <language>en-us</language>
         <copyright>&#xA9;2016</copyright>
         <webMaster>info@kinlane.com (Kin Lane)</webMaster>
         <managingEditor>info@kinlane.com (Kin Lane)</managingEditor>
         <image>
-            <title>{{ site.title }}</title>
+            <title>{{ site.title| xml_escape }}</title>
             <url>{{ site.url }}{{ site.logo }}</url>
             <link>{{ site.url }}</link>
         </image>
@@ -25,9 +24,10 @@ layout: null
         <itunes:keywords>{{ site.keywords }}</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ site.url }}{{ site.logo }}" />
-        <itunes:author>{{ site.author }}</itunes:author>
-        <itunes:summary>{{ site.summary }}</itunes:summary>
-        <itunes:subtitle>{{ site.subtitle }}</itunes:subtitle>
+        <itunes:author>{{ site.author | xml_escape }}</itunes:author>
+        <itunes:summary>{{ site.summary | xml_escape }}</itunes:summary>
+        <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
+        <description>{{ site.description | xml_escape }}</description>
         {% for podcast in site.data.podcasts limit:25 %}
         <item>
             <title>{{ podcast.title | xml_escape }}</title>
