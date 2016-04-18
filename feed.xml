@@ -27,7 +27,6 @@ layout: null
         <itunes:author>{{ site.author | xml_escape }}</itunes:author>
         <itunes:summary>{{ site.summary | xml_escape }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
-        <description>{{ site.description | xml_escape }}</description>
         {% for podcast in site.data.podcasts limit:25 %}<item>
             <title>{{ podcast.title | xml_escape }}</title>
             <description>{{ podcast.description | xml_escape }}</description>
