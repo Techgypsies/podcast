@@ -4,9 +4,6 @@ highlighter: rouge
 
 # Site settings
 title: "The Tech Gypsies Podcast"
-description: > # this means to ignore newlines until "email:"
-   A Hack Education / API Evangelist Production
-
 description: "A Hack Education / API Evangelist Production"
 subtitle: "The Week's Tech News, Scrutinized"
 
