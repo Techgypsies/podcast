@@ -43,7 +43,7 @@ layout: null
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="{{ site.url }}{{ podcast.image }}"/>
       <description><![CDATA[{{ podcast.description | xml_escape }}]]></description>
-        <link>{{ site.url }}{{ podcast. url }}</link>
+        <link>{{ site.url }}{{ podcasturl }}</link>
         <enclosure url="{{ podcast.audio_file }}" length="{{ podcast.audio_length }}" type="audio/mp4"/>
       </item>{% endfor %}
     </channel>
