@@ -64,7 +64,7 @@ social:
  #   share_link:
 
   - icon: rss
-    url:  http://podcast.techgypsi.es/feed.xml
+    url:  http://podcast.techgypsi.es/blog.xml
     desc: Subscribe
     share_url:
     share_title:
