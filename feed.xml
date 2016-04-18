@@ -27,7 +27,7 @@ layout: null
         <itunes:author>{{ site.author | xml_escape }}</itunes:author>
         <itunes:summary>{{ site.summary | xml_escape }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
-        <description>{{ site.description | xml_escape }}</description>
+        <description>All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store</description>
         {% for podcast in site.data.podcasts limit:25 %}<item>
             <title>{{ podcast.title | xml_escape }}</title>
             <itunes:summary>{{ podcast.summary | xml_escape }}</itunes:summary>
