@@ -13,7 +13,7 @@
     <docs>{{ site.url }}</docs>
     <image>
       <url>{{ site.url }}{{ site.logo }}</url>
-      <title>Flash Forward</title>
+      <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
     <itunes:image href="{{ site.url }}{{ site.logo }}" />
@@ -42,7 +42,7 @@
       <itunes:image href="{{ site.url }}{{ podcast.image }}"/>
       <description><![CDATA[{{ podcast.description | xml_escape }}]]></description>
         <link>{{ site.url }}{{ podcast. url }}</link>
-        <enclosure url="http://rss.acast.com/flashforward/rudebotrises/media.mp3" length="36906840" type="audio/mpeg"/>
+        <enclosure url="{{ podcast.audio_file }}" length="{{ podcast.audio_length }}" type="audio/mp4"/>
       </item>{% endfor %}
     </channel>
   </rss>
