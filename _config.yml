@@ -9,9 +9,9 @@ alt_description: "A Hack Education & API Evangelist Production"
 subtitle: "The Weeks Tech News, Scrutinized"
 
 email: kinlane@gmail.com
-logo: "assets/images/tech-gypsies-podcast-1500.png"
-alt_logo: "assets/images/logo.png"
-cover: "assets/images/wheel.jpg"
+logo: "/assets/images/tech-gypsies-podcast-1500.png"
+alt_logo: "/assets/images/logo.png"
+cover: "/assets/images/wheel.jpg"
 covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
 
 name: 'Tech Gypsies'
@@ -25,7 +25,7 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title
 
-url: "http://podcast.techgypsi.es/" # the base hostname & protocol for your site
+url: "http://podcast.techgypsi.es" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle:
