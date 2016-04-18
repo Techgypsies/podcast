@@ -28,8 +28,7 @@ layout: null
         <itunes:summary>{{ site.summary | xml_escape }}</itunes:summary>
         <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
         <description>{{ site.description | xml_escape }}</description>
-        {% for podcast in site.data.podcasts limit:25 %}
-        <item>
+        {% for podcast in site.data.podcasts limit:25 %}<item>
             <title>{{ podcast.title | xml_escape }}</title>
             <description>{{ podcast.description | xml_escape }}</description>
             <itunes:summary>{{ podcast.summary | xml_escape }}</itunes:summary>
@@ -38,7 +37,6 @@ layout: null
             <guid>{{ podcast.audio_file }}</guid>
             <itunes:duration>{{ podcast.duration }}</itunes:duration>
             <pubDate>{{ podcast.publish_date | date_to_rfc822 }}</pubDate>
-        </item>
-        {% endfor %}
+        </item>{% endfor %}
     </channel>
 </rss>
