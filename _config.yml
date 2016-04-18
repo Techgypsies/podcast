@@ -8,11 +8,8 @@ description: "A Hack Education / API Evangelist Production"
 subtitle: "The Week's Tech News, Scrutinized"
 
 email: kinlane@gmail.com
-#blog logo
-logo: "/assets/images/logo.png"
-# blog cover
+logo: "https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/images/tech-gypsies-podcast-1500.png"
 cover: "/assets/images/wheel.jpg"
-covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
 
 name: 'Tech Gypsies'
 author: 'Tech Gypsies'
