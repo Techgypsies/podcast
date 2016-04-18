@@ -10,8 +10,8 @@ Show notes can also be subscribed to via RSS."
 subtitle: "The Week's Tech News, Scrutinized"
 
 email: kinlane@gmail.com
-logo: "/assets/images/tech-gypsies-podcast-1500.png"
-cover: "/assets/images/wheel.jpg"
+logo: "assets/images/tech-gypsies-podcast-1500.png"
+cover: "assets/images/wheel.jpg"
 
 name: 'Tech Gypsies'
 author: 'Tech Gypsies'

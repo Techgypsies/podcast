@@ -1,6 +1,4 @@
----
-layout: null
----
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <channel>
@@ -44,7 +42,7 @@ layout: null
       <itunes:image href="{{ site.url }}{{ podcast.image }}"/>
       <description><![CDATA[{{ podcast.description | xml_escape }}]]></description>
         <link>{{ site.url }}{{ podcast. url }}</link>
-        <enclosure url="{{ podcast.audio_file }}" length="{{ podcast.audio_length }}" type="audio/mp4"/>
+        <enclosure url="http://rss.acast.com/flashforward/rudebotrises/media.mp3" length="36906840" type="audio/mpeg"/>
       </item>{% endfor %}
     </channel>
   </rss>
