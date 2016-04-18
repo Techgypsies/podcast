@@ -15,7 +15,7 @@ layout: null
     <docs>{{ site.url }}</docs>
     <image>
       <url>{{ site.url }}{{ site.logo }}</url>
-      <title>Flash Forward</title>
+      <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
     <itunes:image href="{{ site.url }}{{ site.logo }}" />
