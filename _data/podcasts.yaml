@@ -40,3 +40,17 @@
   tags:
   - Technology
   - Politics
+- title: "Tech Gypsies Episode 4"
+  summary: "In this episode, we discuss Uber and Lyft's defeat at the ballot box in Austin, the failures of the technology press, the horrors of the Techcrunch homepage, and the Further Future Festival for tech's 1%."
+  description: "In this episode, we discuss Uber and Lyft's defeat at the ballot box in Austin, the failures of the technology press, the horrors of the Techcrunch homepage, and the Further Future Festival for tech's 1%."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-08-2016.m4a
+  audio_length: 27565075
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-05-08-2016
+  duration: '0:32:35'
+  publish_date: "2016-05-08 15:00:00"
+  url: 2016/05/08/episode-1
+  tags:
+  - Technology
+  - Politics
