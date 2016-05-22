@@ -36,7 +36,7 @@
   sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-05-01-2016
   duration: '0:29:30'
   publish_date: "2016-05-01 15:00:00"
-  url: 2016/05/01/episode-1
+  url: 2016/05/01/episode-3
   tags:
   - Technology
   - Politics
@@ -50,7 +50,7 @@
   sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-05-08-2016
   duration: '0:32:35'
   publish_date: "2016-05-08 15:00:00"
-  url: 2016/05/08/episode-1
+  url: 2016/05/08/episode-4
   tags:
   - Technology
   - Politics
@@ -64,7 +64,7 @@
   sound_cloud: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
   duration: '0:31:01'
   publish_date: "2016-05-15 15:00:00"
-  url: 2016/05/15/episode-1
+  url: 2016/05/15/episode-5
   tags:
   - Technology
   - Politics
