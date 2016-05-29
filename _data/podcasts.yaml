@@ -82,3 +82,17 @@
   tags:
   - Technology
   - Politics
+  - title: "Tech Gypsies Episode 7"
+  summary: "In this episode, we discuss what was a huge week for API-related news: the Google v Oracle case, the Twilio IPO, and the sale of API Evangelist (which is now, thanks to the API community, unnecessary). We also talk about billionaires and lawsuits, billionaires and ed-tech investment, Trump, and Sea Monkeys."
+  description: "In this episode, we discuss what was a huge week for API-related news: the Google v Oracle case, the Twilio IPO, and the sale of API Evangelist (which is now, thanks to the API community, unnecessary). We also talk about billionaires and lawsuits, billionaires and ed-tech investment, Trump, and Sea Monkeys."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  audio_length: 51935317
+  sound_cloud: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  duration: '0:36:04'
+  publish_date: "2016-05-29 12:00:00"
+  url: 2016/05/29/episode-7
+  tags:
+  - Technology
+  - Politics
