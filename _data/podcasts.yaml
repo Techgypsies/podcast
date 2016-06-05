@@ -96,3 +96,17 @@
   tags:
   - Technology
   - Politics
+    - title: "Tech Gypsies Episode 8"
+  summary: "In this episode, we discuss technology and attention and the lie of 'what technology wants'."
+  description: "In this episode, we discuss technology and attention and the lie of 'what technology wants'."
+  subtitle: "The Week's Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-06-05.mp3
+  audio_length: 53004874
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-06-05
+  duration: '0:36:48'
+  publish_date: "2016-06-05 09:00:00"
+  url: 2016/06/05/episode-8
+  tags:
+  - Technology
+  - Politics

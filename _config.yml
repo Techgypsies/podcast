@@ -4,15 +4,15 @@ highlighter: rouge
 
 # Site settings
 title: "The Tech Gypsies Podcast"
-description: "Welcome to the Tech Gypsies podcast, Kin Lane and Audrey Watters (hopefully) weekly discussion of the latest technology news. Subscribe to the podcast via iTunes (coming soon). Episodes are also available on Soundcloud. (Podcast Feed) Show notes can also be subscribed to via RSS."
+description: "Welcome to the Tech Gypsies podcast, Kin Lane and Audrey Watters (hopefully) weekly discussion of the latest technology news."
 alt_description: "A Hack Education & API Evangelist Production"
-subtitle: "The Weeks Tech News, Scrutinized"
+subtitle: "The Week's Tech News, Scrutinized"
 
 email: kinlane@gmail.com
 logo: "/assets/images/tech-gypsies-podcast-1500.png"
 alt_logo: "/assets/images/logo.png"
-cover: "/assets/images/wheel.jpg"
-covercredits: "https://www.flickr.com/photos/cogdog/4246026511"
+cover: "/assets/images/path.jpg"
+covercredits: "https://www.flickr.com/photos/143298399@N03/26833272314/in/dateposted-public/"
 
 name: 'Tech Gypsies'
 author: 'Tech Gypsies'
