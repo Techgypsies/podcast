@@ -110,3 +110,17 @@
   tags:
   - Technology
   - Politics
+  - title: "Tech Gypsies Episode 9"
+  summary: "In this episode, we talk about violence and toxic masculinity, the ethics of drones, and the joys of being out of range of the Internet and cellphone signals."
+  description: "In this episode, we talk about violence and toxic masculinity, the ethics of drones, and the joys of being out of range of the Internet and cellphone signals."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-2016-06-12-episode-9.mp3
+  audio_length: 51720903
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-episode-9
+  duration: '0:35:55'
+  publish_date: "2016-06-12 09:00:00"
+  url: 2016/06/12/episode-9
+  tags:
+  - Technology
+  - Politics
