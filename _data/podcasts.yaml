@@ -124,3 +124,17 @@
   tags:
   - Technology
   - Politics
+  - title: "Tech Gypsies Episode 10"
+  summary: "In this episode, we talk about platforms, social media data, blockchains, code, and silly techno-utopian fantasies about 'smart' things."
+  description: "In this episode, we talk about platforms, social media data, blockchains, code, and silly techno-utopian fantasies about 'smart' things."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-2016-06-19-episode10.mp3
+  audio_length: 57284985
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-episode-10
+  duration: '0:39:47'
+  publish_date: "2016-06-19 09:00:00"
+  url: 2016/06/19/episode-10
+  tags:
+  - Technology
+  - Politics
