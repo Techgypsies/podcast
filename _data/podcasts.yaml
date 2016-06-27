@@ -138,3 +138,17 @@
   tags:
   - Technology
   - Politics
+  - title: "Tech Gypsies Episode 11"
+  summary: "In this episode, we talk about 40-mile hikes, APIs, and the Brexit."
+  description: "In this episode, we talk about 40-mile hikes, APIs, and the Brexit."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies+podcast+2016-06-26.mp3
+  audio_length: 43446565
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-episode-11-2016-06-26
+  duration: '0:30:10'
+  publish_date: "2016-06-26 09:00:00"
+  url: 2016/06/26/episode-11
+  tags:
+  - Technology
+  - Politics 
