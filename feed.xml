@@ -14,15 +14,15 @@ layout: null
     <copyright><![CDATA[]]></copyright>
     <docs>{{ site.url }}</docs>
     <image>
-      <url>{{ site.url }}{{ site.logo }}</url>
+      <url>{{ site.url }}/{{ site.logo }}</url>
       <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
-    <itunes:image href="{{ site.url }}{{ site.logo }}" />
+    <itunes:image href="{{ site.url }}/{{ site.logo }}" />
     <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
     <itunes:author>{{ site.author }}</itunes:author>
     <itunes:summary><![CDATA[{{ site.description | xml_escape }}]]></itunes:summary>
-    <atom:link rel="self" type="application/rss+xml" href="{{ site.url }}feed.xml" />
+    <atom:link rel="self" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
     <itunes:owner>
       <itunes:name><![CDATA[{{ site.author }}]]></itunes:name>
       <itunes:email>{{ site.author_email }}</itunes:email>
@@ -41,9 +41,9 @@ layout: null
       <itunes:duration>{{ podcast.duration }}</itunes:duration>
       <itunes:keywords></itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="{{ site.url }}{{ podcast.image }}"/>
+      <itunes:image href="{{ site.url }}/{{ podcast.image }}"/>
       <description><![CDATA[{{ podcast.description | xml_escape }}]]></description>
-        <link>{{ site.url }}{{ podcasturl }}</link>
+        <link>{{ site.url }}/{{ podcasturl }}</link>
         <enclosure url="{{ podcast.audio_file }}" length="{{ podcast.audio_length }}" type="audio/mp4"/>
       </item>{% endfor %}
     </channel>
