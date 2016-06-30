@@ -36,7 +36,7 @@ layout: null
     {% for podcast in site.data.podcasts limit:25 %}<item>
       <title>{{ podcast.title | xml_escape }}</title>
       <itunes:subtitle><![CDATA[{{ podcast.subtitle | xml_escape }}]]></itunes:subtitle>
-      <guid isPermaLink="false"><![CDATA[{{ podcast.audio_file }}]]></guid>
+      <guid isPermaLink="false">{{ podcast.audio_file }}</guid>
       <pubDate>{{ podcast.publish_date | date_to_rfc822 }}</pubDate>
       <itunes:duration>{{ podcast.duration }}</itunes:duration>
       <itunes:keywords></itunes:keywords>
