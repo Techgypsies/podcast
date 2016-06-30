@@ -5,7 +5,7 @@
   image: /assets/images/tech-gypsies-podcast-1500.png
   audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-17-2016.m4a
   audio_length: 27524208
-  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-04-17-2016
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-04-17-2016
   duration: '0:33:02'
   publish_date: "2016-04-17 15:00:00"
   url: 2016/04/17/episode-1
@@ -17,9 +17,9 @@
   description: "Welcome to the second episode of the Tech Gypsies podcast, Kin Lane and Audrey Watters' weekly discussion of the latest technology news. In this episode, we talk about Prince, music, technology, and the importance of controlling your own intellectual property."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-24-2016.m4a
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-24-2016.m4a
   audio_length: 28510640
-  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-04-24-2016
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-04-24-2016
   duration: '0:34:22'
   publish_date: "2016-04-24 15:00:00"
   url: 2016/04/24/episode-2
@@ -31,9 +31,9 @@
   description: "In this episode, we continue our Prince-inspired discussion from last week about the importance of controlling your own intellectual property."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-01-2016.m4a
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-01-2016.m4a
   audio_length: 24781326
-  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-05-01-2016
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-05-01-2016
   duration: '0:29:30'
   publish_date: "2016-05-01 15:00:00"
   url: 2016/05/01/episode-3
@@ -45,9 +45,9 @@
   description: "In this episode, we discuss Uber and Lyft's defeat at the ballot box in Austin, the failures of the technology press, the horrors of the Techcrunch homepage, and the Further Future Festival for tech's 1%."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-08-2016.m4a
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-08-2016.m4a
   audio_length: 27565075
-  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-05-08-2016
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-05-08-2016
   duration: '0:32:35'
   publish_date: "2016-05-08 15:00:00"
   url: 2016/05/08/episode-4
@@ -59,9 +59,9 @@
   description: "In this episode, we discuss Oracle v Google and the (unfortunate) copyrightability of APIs."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
   audio_length: 25930210
-  sound_cloud: https://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
+  sound_cloud: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
   duration: '0:31:01'
   publish_date: "2016-05-15 15:00:00"
   url: 2016/05/15/episode-5
@@ -73,9 +73,9 @@
   description: "In this episode, we discuss the role that technology plays in our lives, our reliance on data and devices, and predictions about AI's spring."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
   audio_length: 288856
-  sound_cloud: https://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
+  sound_cloud: http://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
   duration: '0:29:48'
   publish_date: "2016-05-22 15:00:00"
   url: 2016/05/22/episode-6
@@ -87,9 +87,9 @@
   description: "In this episode, we discuss what was a huge week for API-related news: the Google v Oracle case, the Twilio IPO, and the sale of API Evangelist (which is now, thanks to the API community, unnecessary). We also talk about billionaires and lawsuits, billionaires and ed-tech investment, Trump, and Sea Monkeys."
   subtitle: "The Weeks Tech News, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
   audio_length: 51935317
-  sound_cloud: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  sound_cloud: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
   duration: '0:36:04'
   publish_date: "2016-05-29 12:00:00"
   url: 2016/05/29/episode-7
@@ -101,9 +101,9 @@
   description: "In this episode, we discuss technology and attention and the lie of 'what technology wants'."
   subtitle: "Tech, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-06-05.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-06-05.mp3
   audio_length: 53004874
-  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-06-05
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-2016-06-05
   duration: '0:36:48'
   publish_date: "2016-06-05 09:00:00"
   url: 2016/06/05/episode-8
@@ -115,9 +115,9 @@
   description: "In this episode, we talk about violence and toxic masculinity, the ethics of drones, and the joys of being out of range of the Internet and cellphone signals."
   subtitle: "Tech, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-2016-06-12-episode-9.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-2016-06-12-episode-9.mp3
   audio_length: 51720903
-  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-episode-9
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-episode-9
   duration: '0:35:55'
   publish_date: "2016-06-12 09:00:00"
   url: 2016/06/12/episode-9
@@ -129,9 +129,9 @@
   description: "In this episode, we talk about platforms, social media data, blockchains, code, and silly techno-utopian fantasies about 'smart' things."
   subtitle: "Tech, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies-2016-06-19-episode10.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-2016-06-19-episode10.mp3
   audio_length: 57284985
-  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-episode-10
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-episode-10
   duration: '0:39:47'
   publish_date: "2016-06-19 09:00:00"
   url: 2016/06/19/episode-10
@@ -143,12 +143,12 @@
   description: "In this episode, we talk about 40-mile hikes, APIs, and the Brexit."
   subtitle: "Tech, Scrutinized"
   image: /assets/images/tech-gypsies-podcast-1500.png
-  audio_file: https://s3.amazonaws.com/audreywatters/techgypsies+podcast+2016-06-26.mp3
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies+podcast+2016-06-26.mp3
   audio_length: 43446565
-  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-episode-11-2016-06-26
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-episode-11-2016-06-26
   duration: '0:30:10'
   publish_date: "2016-06-26 09:00:00"
   url: 2016/06/26/episode-11
   tags:
   - Technology
-  - Politics 
+  - Politics
