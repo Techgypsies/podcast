@@ -152,3 +152,17 @@
   tags:
   - Technology
   - Politics
+- title: "Tech Gypsies Episode 12"
+  summary: "In this episode, we talk about the history of technology (and the history of marketing technology), technology and an obsession with 'real time' data, and Hillary Clinton's 'innovation agenda.'"
+  description: "In this episode, we talk about the history of technology (and the history of marketing technology), technology and an obsession with 'real time' data, and Hillary Clinton's 'innovation agenda.'"
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech-gypsies-podcast-2016-07-03.mp3
+  audio_length: 55359029
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-07-03
+  duration: '0:38:26'
+  publish_date: "2016-07-03 09:00:00"
+  url: 2016/07/03/episode-12
+  tags:
+  - Technology
+  - Politics 
