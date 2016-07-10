@@ -165,4 +165,18 @@
   url: 2016/07/03/episode-12
   tags:
   - Technology
-  - Politics 
+  - Politics
+- title: "Tech Gypsies Episode 13"
+  summary: "In this episode, we talk about Isaac Asimov's 'First Law of Robotics,' the FAA's new rules on drones, the militarization of technology, and killer robots."
+  description: "In this episode, we talk about Isaac Asimov's 'First Law of Robotics,' the FAA's new rules on drones, the militarization of technology, and killer robots."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech+gypsies+2016-07-10.mp3 
+  audio_length: 51614324
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-2016-07-10
+  duration: '0:35:50'
+  publish_date: "2016-07-10 09:00:00"
+  url: 2016/07/03/episode-13
+  tags:
+  - Technology
+  - Politics   
