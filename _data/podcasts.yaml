@@ -179,4 +179,18 @@
   url: 2016/07/10/episode-13
   tags:
   - Technology
-  - Politics   
+  - Politics 
+- title: "Tech Gypsies Episode 14"
+  summary: "In this episode, we talk about Pokemon Go. Because of course we do."
+  description: "In this episode, we talk about Pokemon Go. Because of course we do."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech-gypsies-2016-07-17.mp3 
+  audio_length: 45764985
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-2016-07-10
+  duration: '0:31:46'
+  publish_date: "2016-07-17 09:00:00"
+  url: 2016/07/17/episode-14
+  tags:
+  - Technology
+  - Politics     
