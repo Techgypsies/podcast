@@ -193,4 +193,18 @@
   url: 2016/07/17/episode-14
   tags:
   - Technology
-  - Politics     
+  - Politics 
+- title: "Tech Gypsies Episode 15"
+  summary: "In this episode, we talk about Peter Thiel, Donald Trump, and other supervillains."
+  description: "In this episode, we talk about Peter Thiel, Donald Trump, and other supervillains."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-07-24.mp3
+  audio_length: 55287558
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-07-24
+  duration: '0:38:23'
+  publish_date: "2016-07-24 09:00:00"
+  url: 2016/07/24/episode-15
+  tags:
+  - Technology
+  - Politics       
