@@ -207,4 +207,18 @@
   url: 2016/07/24/episode-15
   tags:
   - Technology
-  - Politics       
+  - Politics 
+- title: "Tech Gypsies Episode 16"
+  summary: "In this episode, we talk about Wikileaks, ethics, transparency, and Twitter verification."
+  description: "In this episode, we talk about Wikileaks, ethics, transparency, and Twitter verification."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-07-31.mp3
+  audio_length: 49830683
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-07-31
+  duration: '0:34:36'
+  publish_date: "2016-07-31 09:00:00"
+  url: 2016/07/31/episode-16
+  tags:
+  - Technology
+  - Politics         
