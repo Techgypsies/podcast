@@ -235,4 +235,18 @@
   url: 2016/08/07/episode-17
   tags:
   - Technology
-  - Politics           
+  - Politics  
+- title: "Tech Gypsies Episode 18"
+  summary: "In this episode, we talk about digital activism and digital infrastructure."
+  description: "In this episode, we talk about digital activism and digital infrastructure."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-08-14.mp3
+  audio_length: 51043183
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-08-14
+  duration: '0:35:27'
+  publish_date: "2016-08-14 09:00:00"
+  url: 2016/08/14/episode-18
+  tags:
+  - Technology
+  - Politics             
