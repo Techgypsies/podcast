@@ -263,4 +263,18 @@
   url: 2016/08/21/episode-19
   tags:
   - Technology
-  - Politics               
+  - Politics  
+- title: "Tech Gypsies Episode 20"
+  summary: "In this episode, we talk about a domain of one's own, identity, integrity, and air gaps."
+  description: "In this episode, we talk about a domain of one's own, identity, integrity, and air gaps."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-08-28.mp3
+  audio_length: 49545426
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-08-28
+  duration: '0:34:24'
+  publish_date: "2016-08-28 09:00:00"
+  url: 2016/08/28/episode-20
+  tags:
+  - Technology
+  - Politics                 
