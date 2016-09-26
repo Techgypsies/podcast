@@ -319,4 +319,18 @@
   url: 2016/09/18/episode-23
   tags:
   - Technology
-  - Politics                      
+  - Politics 
+- title: "Tech Gypsies Episode 24"
+  summary: "In this episode, we talk about Palmer Luckey, pigeons, and the dystopic landscape of Facebook and VR."
+  description: "In this episode, we talk about Palmer Luckey, pigeons, and the dystopic landscape of Facebook and VR."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-09-25.mp3
+  audio_length: 49759212
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-09-25
+  duration: '0:34:33'
+  publish_date: "2016-09-25 09:00:00"
+  url: 2016/09/25/episode-24
+  tags:
+  - Technology
+  - Politics                        
