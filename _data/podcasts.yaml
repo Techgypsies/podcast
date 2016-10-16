@@ -361,4 +361,18 @@
   url: 2016/10/09/episode-26
   tags:
   - Technology
-  - Politics                            
+  - Politics 
+- title: "Tech Gypsies Episode 27"
+  summary: "In this episode, we talk about Peter Thiel's politics, technology and surveillance, and the failure of Silicon Valley to actually pull of their dystopian vision."
+  description: "In this episode, we talk about Peter Thiel's politics, technology and surveillance, and the failure of Silicon Valley to actually pull of their dystopian vision."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+podcast+2016-10-16.mp3
+  audio_length: 58925684
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-10-16
+  duration: '0:40:55'
+  publish_date: "2016-10-16 09:00:00"
+  url: 2016/10/16/episode-27
+  tags:
+  - Technology
+  - Politics                              
