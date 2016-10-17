@@ -33,7 +33,7 @@ layout: null
     </itunes:category>
     <media:credit role="author">{{ site.author }}</media:credit>
     <media:description type="html"><![CDATA[{{ site.description | xml_escape }}]]></media:description>
-    {% for podcast in site.data.podcasts limit:25 %}<item>
+    {% for podcast in site.data.podcasts limit:125 %}<item>
       <title>{{ podcast.title | xml_escape }}</title>
       <itunes:subtitle><![CDATA[{{ podcast.subtitle | xml_escape }}]]></itunes:subtitle>
       <guid isPermaLink="false">{{ podcast.audio_file }}</guid>
