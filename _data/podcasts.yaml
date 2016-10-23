@@ -375,4 +375,18 @@
   url: 2016/10/16/episode-27
   tags:
   - Technology
-  - Politics                              
+  - Politics 
+- title: "Tech Gypsies Episode 28"
+  summary: "In this episode, we talk about the Internet outage on Friday, Wikileaks and free speech, and Facebook and misinformation.."
+  description: "In this episode, we talk about the Internet outage on Friday, Wikileaks and free speech, and Facebook and misinformation."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-10-23.mp3
+  audio_length: 55393511
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-10-23
+  duration: '0:38:28'
+  publish_date: "2016-10-23 09:00:00"
+  url: 2016/10/23/episode-28
+  tags:
+  - Technology
+  - Politics                                
