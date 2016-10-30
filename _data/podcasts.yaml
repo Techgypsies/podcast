@@ -389,4 +389,19 @@
   url: 2016/10/23/episode-28
   tags:
   - Technology
-  - Politics                                
+  - Politics  
+- title: "Tech Gypsies Episode 29"
+  summary: "In this episode, we talk about Facebook, algorithms, and politics, as well as about certification and the legitimization of new technologies."
+  description: "In this episode, we talk about Facebook, algorithms, and politics, as well as about certification and the legitimization of new technologies."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2016-10-30.mp3
+  audio_length: 53219287
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-10-30
+  duration: '0:36:57'
+  publish_date: "2016-10-30 09:00:00"
+  url: 2016/10/30/episode-29
+  tags:
+  - Technology
+  - Politics  
+
