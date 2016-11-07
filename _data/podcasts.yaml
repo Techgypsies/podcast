@@ -404,4 +404,18 @@
   tags:
   - Technology
   - Politics  
+- title: "Tech Gypsies Episode 30"
+  summary: "In this episode, we talk about email, predictions about the future of technology, Presidents, and literacy."
+  description: "In this episode, we talk about email, predictions about the future of technology, Presidents, and literacy."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2016-11-07.mp3
+  audio_length: 60102448
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-11-07
+  duration: '0:41:44'
+  publish_date: "2016-11-07 09:00:00"
+  url: 2016/11/07/episode-30
+  tags:
+  - Technology
+  - Politics    
 
