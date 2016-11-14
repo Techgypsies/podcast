@@ -417,5 +417,19 @@
   url: 2016/11/07/episode-30
   tags:
   - Technology
-  - Politics    
+  - Politics 
+- title: "Tech Gypsies Episode 31"
+  summary: "In this episode, we talk about Trump, totalitarianism, swamps, and how we are going to build anti-fascist technologies and communities moving forward."
+  description: "In this episode, we talk about Trump, totalitarianism, swamps, and how we are going to build anti-fascist technologies and communities moving forward."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-11-13.mp3
+  audio_length: 62921792
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-11-13
+  duration: '0:43:42'
+  publish_date: "2016-11-13 09:00:00"
+  url: 2016/11/13/episode-31
+  tags:
+  - Technology
+  - Politics      
 
