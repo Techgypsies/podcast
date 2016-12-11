@@ -473,5 +473,18 @@
   url: 2016/12/04/episode-34
   tags:
   - Technology
-  - Politics            
-
+  - Politics   
+- title: "Tech Gypsies Episode 35"
+  summary: "In this episode, we talk about misinformation, disinformation, conspiracy theories, the Russians, and digital polarization."
+  description: "In this episode, we talk about misinformation, disinformation, conspiracy theories, the Russians, and digital polarization."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-podcast-2016-12-11.mp3
+  audio_length: 51869488
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-12-11
+  duration: '0:36:01'
+  publish_date: "2016-12-11 09:00:00"
+  url: 2016/12/11/episode-35
+  tags:
+  - Technology
+  - Politics  
