@@ -501,4 +501,18 @@
   url: 2016/12/18/episode-36
   tags:
   - Technology
-  - Politics    
+  - Politics 
+- title: "Tech Gypsies Episode 37"
+  summary: "In this episode, we talk about nuclear weapons, military technology, home automation, and the return of the worst of the Eighties."
+  description: "In this episode, we talk about nuclear weapons, military technology, home automation, and the return of the worst of the Eighties."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-12-25.mp3
+  audio_length: 52683881
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-12-25
+  duration: '0:36:35'
+  publish_date: "2016-12-25 09:00:00"
+  url: 2016/12/25/episode-37
+  tags:
+  - Technology
+  - Politics      
