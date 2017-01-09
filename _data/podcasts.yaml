@@ -529,4 +529,18 @@
   url: 2017/01/01/episode-38
   tags:
   - Technology
-  - Politics        
+  - Politics
+- title: "Tech Gypsies Episode 39"
+  summary: "In this episode, we talk about Russian hacking, Twitter harassment, and Facebook versus the public sphere."
+  description: "In this episode, we talk about Russian hacking, Twitter harassment, and Facebook versus the public sphere."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2017-01-08.mp3
+  audio_length: 49902154
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2017-01-08
+  duration: '0:34:39'
+  publish_date: "2017-01-08 09:00:00"
+  url: 2017/01/08/episode-39
+  tags:
+  - Technology
+  - Politics          
