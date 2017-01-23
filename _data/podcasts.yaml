@@ -571,4 +571,18 @@
   url: 2017/01/18/underground-punch-card
   tags:
   - Technology
-  - Politics              
+  - Politics  
+- title: "Tech Gypsies Episode 41"
+  summary: "In this episode, we talk about alternative facts, fascism, and information literacy."
+  description: "In this episode, we talk about alternative facts, fascism, and information literacy."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-22.mp3
+  audio_length: 61707411 
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2017-01-22-alternative-facts
+  duration: '0:42:51'
+  publish_date: "2017-01-22 09:00:00"
+  url: 2017/01/22/episode-41
+  tags:
+  - Technology
+  - Politics               
