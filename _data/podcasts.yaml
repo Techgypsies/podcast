@@ -585,4 +585,18 @@
   url: 2017/01/22/episode-41
   tags:
   - Technology
-  - Politics               
+  - Politics 
+- title: "Tech Gypsies Underground History 2"
+  summary: "In this +1 episode, we talk about the history of the chat bot."
+  description: "In this +1 episode, we talk about the history of the chat bot."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+underground+history+2017-01-25.mp3
+  audio_length: 9421344 
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-underground-history-the-chat-bot
+  duration: '0:06:32'
+  publish_date: "2017-01-25 09:00:00"
+  url: 2017/01/25/underground-chat-bot
+  tags:
+  - Technology
+  - Politics                 
