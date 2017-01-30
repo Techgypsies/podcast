@@ -599,4 +599,18 @@
   url: 2017/01/25/underground-chat-bot
   tags:
   - Technology
-  - Politics                 
+  - Politics 
+- title: "Tech Gypsies Episode 42"
+  summary: "In this episode, we talk about Trump, immigration, and technology."
+  description: "In this episode, we talk about Trump, immigration, and technology."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-29.mp3
+  audio_length: 59674249  
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-episode-42-executive-orders
+  duration: '0:41:26'
+  publish_date: "2017-01-29 09:00:00"
+  url: 2017/01/29/episode-42
+  tags:
+  - Technology
+  - Politics                   
