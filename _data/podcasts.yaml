@@ -613,4 +613,18 @@
   url: 2017/01/29/episode-42
   tags:
   - Technology
-  - Politics                   
+  - Politics 
+- title: "Tech Gypsies Episode 43"
+  summary: "In this episode, we talk about technology and profiling in a time of Trump."
+  description: "In this episode, we talk about technology and profiling in a time of Trump."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2017-02-12.mp3
+  audio_length: 54396051   
+  sound_cloud: https://soundcloud.com/kinlane/episode-43-2017-02-12
+  duration: '0:37:40'
+  publish_date: "2017-02-12 09:00:00"
+  url: 2017/02/12/episode-43
+  tags:
+  - Technology
+  - Politics                     
