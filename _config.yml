@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "The Contrafabulists Podcast"
+title: "The Contrafabulists Podcast (Formerly Known as Tech Gypsies)"
 description: "Welcome to the Contrafabulists podcast, Kin Lane and Audrey Watters weekly dissection of the latest technology myth-making."
 alt_description: "A Hack Education & API Evangelist Production"
 subtitle: "The Week's Tech Fables, Dismantled"
