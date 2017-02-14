@@ -3,21 +3,21 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "The Tech Gypsies Podcast"
-description: "Welcome to the Tech Gypsies podcast, Kin Lane and Audrey Watters (hopefully) weekly discussion of the latest technology news."
+title: "The Contrafabulists Podcast"
+description: "Welcome to the Contrafabulists podcast, Kin Lane and Audrey Watters weekly dissection of the latest technology myth-making."
 alt_description: "A Hack Education & API Evangelist Production"
-subtitle: "The Week's Tech News, Scrutinized"
+subtitle: "The Week's Tech Fables, Dismantled"
 
-email: kinlane@gmail.com
-logo: "/assets/images/tech-gypsies-podcast-1500.png"
-alt_logo: "/assets/images/logo.png"
-cover: "/assets/images/path.jpg"
-covercredits: "https://www.flickr.com/photos/143298399@N03/28631245604/in/dateposted/"
+email: info@contrafabulists.com
+logo: "/assets/images/cog.jpg"
+alt_logo: "/assets/images/cog.jpg"
+cover: "/assets/images/owl.jpg"
+covercredits: "http://bryanmmathers.com"
 
-name: 'Tech Gypsies'
-author: 'Tech Gypsies'
+name: 'Contrafabulists'
+author: 'Contrafabulists'
 author_image: "/assets/images/author.png"
-author_email: "info@kinlane.com"
+author_email: "info@contrafabulists.com"
 
 keywords: 'technology, politics'
 
@@ -32,16 +32,16 @@ twitter_handle:
 
 # social icons and sharing options
 social:
-  - icon:
-    url:
-    desc:
+  - icon:   twitter
+    url:    https://twitter.com/contrafabulists
+    desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&url="
 
-  - icon:
-    url:
-    desc:
+  - icon:   facebook
+    url: https://facebook.com/contrafabulists  
+    desc: Like me on facebook
     share_url: http://www.facebook.com/sharer/sharer.php
     share_title: ?title=
     share_link: "?u="
@@ -68,7 +68,7 @@ social:
     share_link:
 
   - icon: envelope
-    url:  mailto:kinlane@gmail.com
+    url:  mailto:info@contrafabulists.com
     desc: Email
     share_url:
     share_title:
